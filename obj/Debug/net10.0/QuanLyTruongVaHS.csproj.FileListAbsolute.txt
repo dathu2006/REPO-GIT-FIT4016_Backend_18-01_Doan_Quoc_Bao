@@ -1,0 +1,4 @@
+C:\Back-End\Code\QuanLyTruongVaHS\obj\Debug\net10.0\QuanLyTruongVaHS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Back-End\Code\QuanLyTruongVaHS\obj\Debug\net10.0\QuanLyTruongVaHS.AssemblyInfoInputs.cache
+C:\Back-End\Code\QuanLyTruongVaHS\obj\Debug\net10.0\QuanLyTruongVaHS.AssemblyInfo.cs
+C:\Back-End\Code\QuanLyTruongVaHS\obj\Debug\net10.0\QuanLyTruongVaHS.csproj.CoreCompileInputs.cache
